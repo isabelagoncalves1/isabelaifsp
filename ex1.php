@@ -16,7 +16,7 @@
            } 
           
         }
-        echo primo(2);    
+        echo primo(17);    
         ?>
     </body>
 </html>
